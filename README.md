@@ -24,10 +24,10 @@ I did similar to the minute object by dividing it by 60 minutes and multiplying 
 However for the hour hand I had to multiply by 12 hours even though there are 24 hours in a day. This is because this clock is a 12 hour clock. So I had to divide by 12.  
 
 **Live Site**   
-
+ https://ifeomaorika.github.io/JS-clock/
 **My stack for the project**  
 
-My stack was HTML CSS and vanilla JavaScript           
+ HTML CSS and vanilla JavaScript           
 
 **What I learned**, 
 
